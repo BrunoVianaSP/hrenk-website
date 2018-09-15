@@ -49,6 +49,21 @@ body{
  
 
 
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
 
 
  .logo {
@@ -199,7 +214,6 @@ label{
 /*--about--*/
 .about{
 	padding:2em 0
-    margin: 2em 0;
 }
 .about-right h3,.service h3,.gallery h3,.blog h3,.contact h3{
 	color:#009900;
@@ -558,7 +572,7 @@ padding:2em 0 0.5em 0;
 }
 @media (max-width: 1880px){
 .top-menu ul li:nth-child(3) {
-  margin-right: 11em;
+  margin-right: 0px;
 }
 .logo {
   left: 42%;
