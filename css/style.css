@@ -1314,3 +1314,25 @@ a i.youtube:hover {
     /* Firefox 18- */
     color: #999;
 }
+
+
+/* default button */
+
+.default-button {
+    color: #fff;
+    padding: 0.6em 3em;
+    font-size: 1.1em;
+    display: inline-block;
+    margin-top: 2.5em;
+    border: 2px solid #009900;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background: #009900;
+}
+
+.card {
+    margin: 2.5em 1.5em 2.5em 1.5em;
+}
