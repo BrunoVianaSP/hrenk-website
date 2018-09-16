@@ -261,7 +261,7 @@ label {
 
 .company-right h3,
 .product h3,
-.gallery h3,
+.catalog h3,
 .blog h3,
 .contact h3 {
     color: #009900;
@@ -301,7 +301,7 @@ label {
 
 /*----*/
 
-.gallery {
+.catalog {
     margin: 4em 0;
 }
 
@@ -313,7 +313,7 @@ label {
     width: 100%;
 }
 
-.gallery-info {
+.catalog-info {
     margin-top: 2.5em;
 }
 
@@ -866,7 +866,7 @@ a i.youtube:hover {
     }
     .company-right h3,
     .product h3,
-    .gallery h3,
+    .catalog h3,
     .blog h3,
     .contact h3 {
         font-size: 2em;
@@ -884,7 +884,7 @@ a i.youtube:hover {
         font-size: 0.9em;
         margin-top: 1em;
     }
-    .gallery {
+    .catalog {
         margin: 2em 0;
     }
     .blog-grid h4 a {
@@ -1250,7 +1250,7 @@ a i.youtube:hover {
     }
     .company-right h3,
     .product h3,
-    .gallery h3,
+    .catalog h3,
     .blog h3,
     .contact h3 {
         font-size: 1.5em;
@@ -1272,7 +1272,7 @@ a i.youtube:hover {
         padding: 0px 0 8px 0;
         width: 100%;
     }
-    .gallery-info {
+    .catalog-info {
         margin-top: 1.5em;
     }
     .blog-grids {
