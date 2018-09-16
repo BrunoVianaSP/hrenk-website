@@ -271,9 +271,11 @@ label {
 }
 
 .company-right {
-    width: 51.8%;
+    /* width: 51.8%; */
+    width: 100%;
     float: left;
-    padding: 0em 4em;
+    /* padding: 0em 4em; */
+    padding: 0em 1em;
 }
 
 .company-right h4 {
