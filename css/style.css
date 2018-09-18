@@ -263,6 +263,7 @@ label {
 .product h3,
 .catalog h3,
 .blog h3,
+.map h3,
 .contact h3 {
     color: #009900;
     font-size: 2.5em;
@@ -470,9 +471,15 @@ a.blogs:hover {
 
 /*--map--*/
 
+
+/* .map {
+    font-size: 2em;
+} */
+
 .map iframe {
     width: 100%;
     min-height: 400px;
+    margin-top: 2.5em;
 }
 
 
@@ -870,6 +877,7 @@ a i.youtube:hover {
     .product h3,
     .catalog h3,
     .blog h3,
+    .map h3,
     .contact h3 {
         font-size: 2em;
     }
