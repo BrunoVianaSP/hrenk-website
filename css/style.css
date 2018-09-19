@@ -134,8 +134,13 @@ span.menu {
 }
 
 .top-menu ul li:nth-child(3) {
-    margin-right: 13em;
+    margin-right: 0;
 }
+
+
+/* .top-menu ul li:nth-child(3) {
+    margin-right: 13em;
+} */
 
 .header {
     background: url(../images/banner.jpg) no-repeat 0px -127px;
